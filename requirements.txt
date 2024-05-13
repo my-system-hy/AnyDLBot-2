@@ -1,6 +1,5 @@
 aiohttp
 beautifulsoup4
-git+git://github.com/google/chatbase-python.git
 hachoir
 numpy
 Pillow
@@ -24,4 +23,4 @@ olefile
 filetype
 tldextract
 motor
-https://github.com/Tinche/aiofiles/archive/master.zip
+
